@@ -1,0 +1,7 @@
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.csproj.AssemblyReference.cache
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.AssemblyInfoInputs.cache
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.AssemblyInfo.cs
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.csproj.CoreCompileInputs.cache
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tean\Documents\Dummy projects\MTG-Card-Collection\MtgCardCollectionBackend\obj\Debug\net7.0\MtgCardCollectionBackend.MvcApplicationPartsAssemblyInfo.cache
